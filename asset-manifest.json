@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rimuru/static/css/main.3def0271.css",
-    "main.js": "/rimuru/static/js/main.0ddd571f.js",
+    "main.css": "/rimuru/static/css/main.9c05adea.css",
+    "main.js": "/rimuru/static/js/main.9cde84ed.js",
     "static/js/453.b404aabb.chunk.js": "/rimuru/static/js/453.b404aabb.chunk.js",
     "static/media/bgm.mp3": "/rimuru/static/media/bgm.de2abd61a5e13fbc0e48.mp3",
     "static/media/logo.png": "/rimuru/static/media/logo.abeb9f75baa7e0c25b32.png",
@@ -11,12 +11,12 @@
     "static/media/character.png": "/rimuru/static/media/character.13d9bcb26322e1a0ce68.png",
     "static/media/react-js.webp": "/rimuru/static/media/react-js.62037a0373475d492d73.webp",
     "index.html": "/rimuru/index.html",
-    "main.3def0271.css.map": "/rimuru/static/css/main.3def0271.css.map",
-    "main.0ddd571f.js.map": "/rimuru/static/js/main.0ddd571f.js.map",
+    "main.9c05adea.css.map": "/rimuru/static/css/main.9c05adea.css.map",
+    "main.9cde84ed.js.map": "/rimuru/static/js/main.9cde84ed.js.map",
     "453.b404aabb.chunk.js.map": "/rimuru/static/js/453.b404aabb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3def0271.css",
-    "static/js/main.0ddd571f.js"
+    "static/css/main.9c05adea.css",
+    "static/js/main.9cde84ed.js"
   ]
 }
